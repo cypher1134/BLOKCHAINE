@@ -1,0 +1,14 @@
+.vscode
+*/*
+!*/*.*
+*/*.o
+build/*
+*.exe
+.DS_Store
+**/.DS_Store
+data/*
+!data/blockchain
+data/blockchain/*
+!data/temp
+data/temp/*
+!test/compute_winner_data/
